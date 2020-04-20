@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pick_n_go_app">
+    <output-path>$PROJECT_DIR$/out/artifacts/pick_n_go_app</output-path>
+    <root id="archive" name="pick_n_go_app.war" />
+  </artifact>
+</component>
